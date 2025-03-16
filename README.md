@@ -1,5 +1,5 @@
 # RenameFiles
-A python script to rename files in the working directory.
+A python script to rename files in the working directory with a random numeric prefix. Intention is to be used in places where files are accessed based on their name in alpha-numeric order. This script will effectively shuffle the files.
 
 ## Customization
 The following variables can be updated to alter the functionality of this script.
